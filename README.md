@@ -12,3 +12,11 @@
 
 ### 面试经验分享
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
+### 学习资料
+用户增长：
+1. [用户发展路径——从哪里来，到哪里去？](https://www.youtube.com/watch?v=qY-z4Qh2Hiw)
+2. [基于用户的目标构建体系与目标管理——分析三板斧中的“对比”延伸；](https://www.youtube.com/watch?v=Y2QanBCQNhg)
+3. [用户增长的“量”与“质”的平衡；](https://www.youtube.com/watch?v=Mu30ClivRmk)
+4. [用户增长的曲线路径——当用户增长乏力时该如何追求流水增长？](https://www.youtube.com/watch?v=Xmz2ue1TZGU)
+
