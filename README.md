@@ -15,6 +15,7 @@
 
 ### 学习资料
 用户增长：
+课程介绍：网易云课堂的《网易严选：用户增长实践经验分享》课程youtube版本，四个内容分别为5，10，40，5分钟。
 1. [用户发展路径——从哪里来，到哪里去？](https://www.youtube.com/watch?v=qY-z4Qh2Hiw)
 2. [基于用户的目标构建体系与目标管理——分析三板斧中的“对比”延伸；](https://www.youtube.com/watch?v=Y2QanBCQNhg)
 3. [用户增长的“量”与“质”的平衡；](https://www.youtube.com/watch?v=Mu30ClivRmk)
